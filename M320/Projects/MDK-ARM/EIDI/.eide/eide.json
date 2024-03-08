@@ -1,0 +1,249 @@
+{
+  "name": "MQ320",
+  "type": "ARM",
+  "dependenceList": [],
+  "srcDirs": [
+    ".eide/deps"
+  ],
+  "virtualFolder": {
+    "name": "<virtual_root>",
+    "files": [],
+    "folders": [
+      {
+        "name": "Drivers",
+        "files": [],
+        "folders": [
+          {
+            "name": "APM32F4xx_StdPeriphDriver",
+            "files": [
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_adc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_can.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_crc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_cryp_aes.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_cryp_des.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_cryp_tdes.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_cryp.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_dac.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_dbgmcu.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_dci.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_dma.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_dmc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_eint.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_fmc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_gpio.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_hash_md5.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_hash_sha1.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_hash.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_i2c.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_iwdt.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_misc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_pmu.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_rcm.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_rng.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_rtc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_sdio.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_smc.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_spi.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_syscfg.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_tmr.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_usart.c"
+              },
+              {
+                "path": "../../../Drivers/APM32F4xx_StdPeriphDriver/src/apm32f4xx_wwdt.c"
+              }
+            ],
+            "folders": []
+          },
+          {
+            "name": "BSP",
+            "files": [
+              {
+                "path": "../../../Drivers/BSP/LED/btmr.c"
+              },
+              {
+                "path": "../../../Drivers/BSP/LED/ds3231s.c"
+              },
+              {
+                "path": "../../../Drivers/BSP/LED/gps_data_convert.c"
+              },
+              {
+                "path": "../../../Drivers/BSP/LED/initial.c"
+              },
+              {
+                "path": "../../../Drivers/BSP/LED/led.c"
+              },
+              {
+                "path": "../../../Drivers/BSP/LED/rs485.c"
+              }
+            ],
+            "folders": []
+          },
+          {
+            "name": "SYSTEM",
+            "files": [
+              {
+                "path": "../../../Drivers/SYSTEM/delay/delay.c"
+              },
+              {
+                "path": "../../../Drivers/SYSTEM/sys/sys.c"
+              },
+              {
+                "path": "../../../Drivers/SYSTEM/usart/usart.c"
+              }
+            ],
+            "folders": []
+          }
+        ]
+      },
+      {
+        "name": "Readme",
+        "files": [],
+        "folders": []
+      },
+      {
+        "name": "Startup",
+        "files": [
+          {
+            "path": "../../../Drivers/Device/Geehy/APM32F4xx/Source/arm/startup_apm32f40x.s"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "User",
+        "files": [
+          {
+            "path": "../../../Drivers/Device/Geehy/APM32F4xx/Source/system_apm32f4xx.c"
+          },
+          {
+            "path": "../../../User/apm32f4xx_int.c"
+          },
+          {
+            "path": "../../../User/includes.h"
+          },
+          {
+            "path": "../../../User/main.c"
+          }
+        ],
+        "folders": []
+      }
+    ]
+  },
+  "outDir": "build",
+  "deviceName": null,
+  "packDir": null,
+  "miscInfo": {
+    "uid": "a213f9f0cd66dfe8c0f92fdcfb49586c"
+  },
+  "targets": {
+    "Template": {
+      "excludeList": [],
+      "toolchain": "GCC",
+      "compileConfig": {
+        "cpuType": "Cortex-M4",
+        "floatingPointHardware": "single",
+        "scatterFilePath": "APM32F4xxxG_FLASH.ld",
+        "useCustomScatterFile": true,
+        "storageLayout": {
+          "RAM": [],
+          "ROM": []
+        },
+        "options": "null"
+      },
+      "uploader": "JLink",
+      "uploadConfig": {
+        "bin": "",
+        "baseAddr": "",
+        "cpuInfo": {
+          "vendor": "Geehy",
+          "cpuName": "APM32F407VG"
+        },
+        "proType": 1,
+        "speed": 8000,
+        "otherCmds": ""
+      },
+      "uploadConfigMap": {},
+      "custom_dep": {
+        "name": "default",
+        "incList": [
+          "../../../Drivers",
+          "../../../Drivers/CMSIS/Include",
+          "../../../Drivers/APM32F4xx_StdPeriphDriver/inc",
+          "../../../Drivers/Device/Geehy/APM32F4xx/Include",
+          "../../../User",
+          ".cmsis/include",
+          "../RTE/_Template",
+          ".eide/deps",
+          "../../../Drivers/BSP"
+        ],
+        "libList": [],
+        "sourceDirList": [],
+        "defineList": [
+          "APM32F40X"
+        ]
+      }
+    }
+  },
+  "version": "3.3"
+}
